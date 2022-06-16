@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "folderfun"]
+	path = folderfun
+	url = https://github.com/databio/folderfun
+	shallow = true
+	registered = true
+[submodule "loadr"]
+	path = loadr
+	url = https://github.com/databio/loadr
+	shallow = true
+	registered = true
+[submodule "simpleCache"]
+	path = simpleCache
+	url = https://github.com/databio/simplecache
+	shallow = true
+	registered = true
+[submodule "COCOA"]
+	path = COCOA
+	url = https://github.com/databio/cocoa
+	shallow = true
+	registered = true
+[submodule "MIRA"]
+	path = MIRA
+	url = https://github.com/databio/mira
+	shallow = true
+	registered = true
