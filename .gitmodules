@@ -18,13 +18,3 @@
 	url = https://github.com/databio/simplecache
 	shallow = true
 	registered = true
-[submodule "COCOA"]
-	path = COCOA
-	url = https://github.com/databio/cocoa
-	shallow = true
-	registered = true
-[submodule "MIRA"]
-	path = MIRA
-	url = https://github.com/databio/mira
-	shallow = true
-	registered = true
