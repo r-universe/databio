@@ -10,5 +10,11 @@
   {
     "package": "simpleCache",
     "oncran": true
+  },
+  {
+    "package": "COCOA"
+  },
+  {
+    "package": "MIRA"
   }
 ]
