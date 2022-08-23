@@ -15,6 +15,9 @@
     "package": "COCOA"
   },
   {
+    "package": "GenomicDistributions"
+  },
+  {
     "package": "MIRA"
   }
 ]
