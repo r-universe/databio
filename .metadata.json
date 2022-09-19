@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "loadr",
-    "oncran": true
-  },
-  {
     "package": "simpleCache",
     "oncran": true
   },
