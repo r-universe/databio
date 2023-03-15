@@ -18,14 +18,14 @@
 	url = https://github.com/databio/simplecache
 	shallow = true
 	registered = true
-[submodule "COCOA"]
-	path = COCOA
-	url = https://github.com/databio/cocoa
-	shallow = true
-	registered = true
 [submodule "GenomicDistributions"]
 	path = GenomicDistributions
 	url = https://github.com/databio/genomicdistributions
+	shallow = true
+	registered = true
+[submodule "COCOA"]
+	path = COCOA
+	url = https://github.com/databio/cocoa
 	shallow = true
 	registered = true
 [submodule "MIRA"]

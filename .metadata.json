@@ -12,10 +12,10 @@
     "oncran": true
   },
   {
-    "package": "COCOA"
+    "package": "GenomicDistributions"
   },
   {
-    "package": "GenomicDistributions"
+    "package": "COCOA"
   },
   {
     "package": "MIRA"
