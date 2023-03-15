@@ -1,23 +1,23 @@
 [
   {
+    "package": "COCOA"
+  },
+  {
     "package": "folderfun",
-    "oncran": true
-  },
-  {
-    "package": "loadr",
-    "oncran": true
-  },
-  {
-    "package": "simpleCache",
     "oncran": true
   },
   {
     "package": "GenomicDistributions"
   },
   {
-    "package": "COCOA"
+    "package": "loadr",
+    "oncran": true
   },
   {
     "package": "MIRA"
+  },
+  {
+    "package": "simpleCache",
+    "oncran": true
   }
 ]
