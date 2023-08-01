@@ -5,18 +5,18 @@
 [submodule "COCOA"]
 	path = COCOA
 	url = https://github.com/databio/cocoa
-[submodule "folderfun"]
-	path = folderfun
-	url = https://github.com/databio/folderfun
 [submodule "GenomicDistributions"]
 	path = GenomicDistributions
 	url = https://github.com/databio/genomicdistributions
-[submodule "loadr"]
-	path = loadr
-	url = https://github.com/databio/loadr
 [submodule "MIRA"]
 	path = MIRA
 	url = https://github.com/databio/mira
+[submodule "folderfun"]
+	path = folderfun
+	url = https://github.com/databio/folderfun
+[submodule "loadr"]
+	path = loadr
+	url = https://github.com/databio/loadr
 [submodule "simpleCache"]
 	path = simpleCache
 	url = https://github.com/databio/simplecache
