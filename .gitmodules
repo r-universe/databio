@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "COCOA"]
-	path = COCOA
-	url = https://github.com/databio/cocoa
-[submodule "GenomicDistributions"]
-	path = GenomicDistributions
-	url = https://github.com/databio/genomicdistributions
-[submodule "MIRA"]
-	path = MIRA
-	url = https://github.com/databio/mira
 [submodule "simpleCache"]
 	path = simpleCache
 	url = https://github.com/databio/simplecache
